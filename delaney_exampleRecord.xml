@@ -34,10 +34,11 @@
         <geographic>Paris (France)</geographic> <!-- Subject based on description text -->
     </subject>
     <typeOfResource>still image</typeOfResource> <!-- It would be beneficial to have a field that lets me easily see whether a page has text or imagery on it immediately -->
-    <relatedItem displayLabel="Project" type="host">
+    <relatedItem displayLabel="Collection" type="host">
         <titleInfo>
-            <title>Beauford Delaney Sketchbooks and Notebooks</title> <!-- Unsure of official collection title we want for the digital collection -->
+            <title>Beauford Delaney Sketchbooks and Notebooks</title>
         </titleInfo>
+        <identifier>MS-3967</identifier>
     </relatedItem>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
