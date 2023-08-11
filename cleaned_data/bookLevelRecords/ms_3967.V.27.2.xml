@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ms_3967.V.27.2</identifier>
+   <titleInfo>
+      <title>Beauford Delaney sketchbook, book 9</title>
+   </titleInfo>
+   <name valueURI="http://id.loc.gov/authorities/names/n85364216">
+      <namePart>Delaney, Beauford, 1901-1979</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>circa 1940s</dateCreated>
+      <dateCreated encoding="edtf" point="start">1940</dateCreated>
+      <dateCreated encoding="edtf" point="end">1949</dateCreated>
+   </originInfo>
+   <abstract>Beauford Delaney sketchbook from the 1940s. It includes two portraits of Duke Ellington. Among the other drawings are charcoal and graphite sketches of jazz clubs and street scenes as well as several figure drawings.</abstract>
+   <note>Brown, 'the spiral' sketch book.</note>
+   <note>Graphite.</note>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85069833">
+      <topic>Jazz</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170">
+      <topic>Figure drawing</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n50080187">
+      <topic>Ellington, Duke, 1899-1974</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286">
+      <topic>Artists, Black</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Beauford Delaney Sketchbooks and Notebooks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Beauford Delaney Sketchbooks and Notebooks</title>
+      </titleInfo>
+      <identifier>MS-3967</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
