@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ms_3967.V.27.13.3.f</identifier>
+   <titleInfo>
+      <title>Beauford Delaney sketchbook, book 20, page 3f</title>
+   </titleInfo>
+   <name valueURI="http://id.loc.gov/authorities/names/n85364216">
+      <namePart>Delaney, Beauford, 1901-1979</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>circa 1950s</dateCreated>
+      <dateCreated encoding="edtf" point="start">1950</dateCreated>
+      <dateCreated encoding="edtf" point="end">1959</dateCreated>
+   </originInfo>
+   <abstract>Mixed media (black ink and pastel); Still life drawing depicting flowers in a vase next to a candle; yellow and red pastel</abstract>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85128119">
+      <topic>Still-life in art</topic>
+   </subject>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Beauford Delaney Sketchbooks and Notebooks</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Beauford Delaney Sketchbooks and Notebooks</title>
+      </titleInfo>
+      <identifier>MS-3967</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <shelfLocator>Box 27, folder 13</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
