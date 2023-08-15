@@ -27,7 +27,7 @@
 
 {{if(isBlank(cells['Media/Detail'].value), '', '<note>' + cells['Media/Detail'].value + '</note>')}}
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form>
+<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['Size']value}}</extent>
 </physicalDescription>
 
 {{if(isBlank(cells['subject'].value), '', '<subject valueURI="' + cells['subject_URI'].value + '"><topic>' + cells['subject'].value + '</topic></subject>')}}
