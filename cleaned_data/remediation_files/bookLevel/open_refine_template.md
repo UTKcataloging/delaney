@@ -38,8 +38,6 @@
 
 {{if(isBlank(cells['subject4'].value), '', '<subject valueURI="' + cells['subject4_URI'].value + '"><topic>' + cells['subject4'].value + '</topic></subject>')}}
 
-{{if(isBlank(cells['subject5'].value), '', '<subject valueURI="' + cells['subject5_URI'].value + '"><topic>' + cells['subject5'].value + '</topic></subject>')}}
-
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
 <relatedItem displayLabel="Collection" type="host"><titleInfo>
