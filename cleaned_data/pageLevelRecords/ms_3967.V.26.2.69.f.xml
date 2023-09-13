@@ -4,9 +4,9 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">ms_3967.V.26.2.85.b</identifier>
+   <identifier type="local">ms_3967.V.26.2.69.f</identifier>
    <titleInfo>
-      <title>Beauford Delaney sketchbook, book 2, page 85b</title>
+      <title>Beauford Delaney sketchbook, book 2, page 69f</title>
    </titleInfo>
    <name valueURI="http://id.loc.gov/authorities/names/n85364216">
       <namePart>Delaney, Beauford, 1901-1979</namePart>
@@ -20,10 +20,7 @@
       <dateCreated encoding="edtf" point="start">1955</dateCreated>
       <dateCreated encoding="edtf" point="end">1956</dateCreated>
    </originInfo>
-   <abstract>Blue ink (pen); Drawing depicting the outline of a figure wearing crakows</abstract>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170">
-      <topic>Figure drawing</topic>
-   </subject>
+   <abstract>Blue ink (pen); name and address written in blue pen (Helen Grafton)</abstract>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Beauford Delaney Sketchbooks and Notebooks</title>

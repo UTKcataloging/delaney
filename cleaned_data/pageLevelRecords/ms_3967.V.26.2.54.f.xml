@@ -20,7 +20,13 @@
       <dateCreated encoding="edtf" point="start">1955</dateCreated>
       <dateCreated encoding="edtf" point="end">1956</dateCreated>
    </originInfo>
-   <abstract>Blue ink (pen); abstract sketch in blue pen, depicting a face (scratched out) and two parallel lines</abstract>
+   <abstract>Blue ink (pen); list of names, dates, and addresses written in blue pen</abstract>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604">
+      <topic>Lists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85128579">
+      <topic>Street addresses</topic>
+   </subject>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Beauford Delaney Sketchbooks and Notebooks</title>
