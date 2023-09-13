@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
 <identifier type="local">ms_3967.V.26.1</identifier>
 
 <titleInfo><title>Beauford Delaney sketchbook, book 1</title></titleInfo> 
@@ -14,7 +15,7 @@
 
 <note>Black ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>24 x 16 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -24,6 +25,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -51,7 +59,7 @@
 
 <note>Blue ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22.5 x 18 x 3 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -61,6 +69,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -88,7 +103,7 @@
 
 <note>Blue ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>27 x 22 x 2 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -98,6 +113,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -125,7 +147,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>27 x 20 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -135,6 +157,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -162,7 +191,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>27.5 x 21 x 3 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85122409"><topic>Signatures (Writing)</topic></subject>
@@ -172,6 +201,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -199,7 +235,7 @@
 
 <note>Black ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>30 x 22.8 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85005283"><topic>Animals in art</topic></subject>
@@ -209,6 +245,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -236,7 +279,7 @@
 
 <note>Black ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>32 x 23.5 x .8 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
@@ -246,6 +289,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -273,7 +323,7 @@
 
 <note>Graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>22.5 x 15.2 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -283,6 +333,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh99001795"><topic>Music</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -310,7 +367,7 @@
 
 <note>Graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>23.2 x 15 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85069833"><topic>Jazz</topic></subject>
@@ -320,6 +377,13 @@
 <subject valueURI="http://id.loc.gov/authorities/names/n50080187"><topic>Ellington, Duke, 1899-1974</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -347,7 +411,7 @@
 
 <note>Black ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>23.5 x 15.5 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85051829"><topic>French language</topic></subject>
@@ -357,6 +421,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -384,7 +455,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 17 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/n79069799"><topic>Miller, Henry, 1891-1980</topic></subject>
@@ -394,6 +465,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -421,7 +499,7 @@
 
 <note>Black ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 17 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/nr97003980"><topic>Potter, Larry, 1925-1966</topic></subject>
@@ -431,6 +509,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -458,7 +543,7 @@
 
 <note>Black and blue ink, graphite, charcoal.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 17 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -468,6 +553,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -495,7 +587,7 @@
 
 <note>Black and blue ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 17 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/n79069799"><topic>Miller, Henry, 1891-1980</topic></subject>
@@ -505,6 +597,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -532,7 +631,7 @@
 
 <note>Black ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 16.5 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -542,6 +641,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -569,7 +675,7 @@
 
 <note>Black and blue ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 17.3 x .3 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -579,6 +685,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -606,7 +719,7 @@
 
 <note>Black ink, oil pastel.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>22.5 x 17 x .2 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -616,6 +729,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85088916"><topic>Music in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -643,7 +763,7 @@
 
 <note>Black ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>22 x 16.7 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
@@ -653,6 +773,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -680,7 +807,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>22 x 15.5 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -690,6 +817,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -717,7 +851,7 @@
 
 <note>Black ink, oil pastel.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>22 x 14 x .9 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85128119"><topic>Still-life in art</topic></subject>
@@ -727,6 +861,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -754,7 +895,7 @@
 
 <note>Black and blue ink, graphite, oil pastels.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>22.7 x 12 x 1.3 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
@@ -764,6 +905,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -791,7 +939,7 @@
 
 <note>Black ink, watercolor.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>21.5 x 13.8 x 2 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -801,6 +949,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -828,7 +983,7 @@
 
 <note>Black and pink ink, graphite, oil pastel, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>21.5 x 13.8 x 2 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85085702"><topic>Minimal art</topic></subject>
@@ -838,6 +993,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85128579"><topic>Street addresses</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -865,7 +1027,7 @@
 
 <note>Graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>21.5 x 12.5 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
@@ -875,6 +1037,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -902,7 +1071,7 @@
 
 <note>Black ink, graphite, oil pastel.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>21.5 x 12.5 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -912,6 +1081,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -939,7 +1115,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>19.9 x 13.8 x .09 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -949,6 +1125,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -976,7 +1159,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>17.8 x 13.5 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/n79069799"><topic>Miller, Henry, 1891-1980</topic></subject>
@@ -986,6 +1169,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1013,7 +1203,7 @@
 
 <note>Black ink, graphite, oil pastel.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>18 x 12.5 x 1.5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -1023,6 +1213,13 @@
 <subject valueURI="http://id.loc.gov/authorities/names/n87927953"><topic>Parks, Rosa, 1913-2005</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1050,7 +1247,7 @@
 
 <note>Graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>18 x 12.5 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85069833"><topic>Jazz</topic></subject>
@@ -1060,6 +1257,13 @@
 <subject valueURI="http://id.loc.gov/authorities/names/n81149139"><topic>Wilson, Teddy, 1912-1986</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1087,7 +1291,7 @@
 
 <note>Black and blue ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>6.25 x 8.75 x .25 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -1097,6 +1301,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh96011700"><topic>Boats and boating in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1124,7 +1335,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>18 x 12.5 x 1.5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
@@ -1134,6 +1345,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1161,7 +1379,7 @@
 
 <note>Ink, graphite, watercolor.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>18 x 11 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/n50080187"><topic>Ellington, Duke, 1899-1974</topic></subject>
@@ -1171,6 +1389,13 @@
 <subject valueURI="http://id.loc.gov/authorities/names/n79076619"><topic>Baldwin, James, 1924-1987</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1198,7 +1423,7 @@
 
 <note>Ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>17.5 x 10.5 x 1.5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -1208,6 +1433,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1235,7 +1467,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>17 x 10.8 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
@@ -1245,6 +1477,13 @@
 <subject valueURI="http://id.loc.gov/authorities/names/n87927953"><topic>Parks, Rosa, 1913-2005</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1272,7 +1511,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>15.7 x 9.7 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1282,6 +1521,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1309,7 +1555,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>15.8 x 8 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/n79069799"><topic>Miller, Henry, 1891-1980</topic></subject>
@@ -1319,6 +1565,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1346,7 +1599,7 @@
 
 <note>Ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>15.3 x 9 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
@@ -1356,6 +1609,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1383,7 +1643,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>15 x 10 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1393,6 +1653,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1420,7 +1687,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>15 x 9.8 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1430,6 +1697,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1457,7 +1731,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>15.5 x 10 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
@@ -1467,6 +1741,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1494,7 +1775,7 @@
 
 <note>Graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>15.2 x 10 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/names/n80083961"><topic>Lee, Canada</topic></subject>
@@ -1504,6 +1785,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1531,7 +1819,7 @@
 
 <note>Ink, graphite, oil pastels.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>15 x 9.4 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
@@ -1541,6 +1829,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1568,7 +1863,7 @@
 
 <note>Ink, graphite, oil pastels, watercolor.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>15 x 10 x .8 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
@@ -1578,6 +1873,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85005283"><topic>Animals in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1605,7 +1907,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>14.5 x 8.8 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85128579"><topic>Street addresses</topic></subject>
@@ -1615,6 +1917,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048263"><topic>Finance, Personal</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1642,7 +1951,7 @@
 
 <note>Ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>14 x 9 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85069833"><topic>Jazz</topic></subject>
@@ -1652,6 +1961,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1679,7 +1995,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>13.9 x 9 x .5 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1689,6 +2005,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1716,7 +2039,7 @@
 
 <note>Ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>12 x 9 x 1.3 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1726,6 +2049,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1753,7 +2083,7 @@
 
 <note>Ink.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>12.5 x 8.9 x 1 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423"><topic>Landscapes in art</topic></subject>
@@ -1763,6 +2093,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85000254"><topic>Abstract expressionism</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1790,7 +2127,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form><extent>12.8 x 7.9 x 1.3 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1800,6 +2137,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1827,7 +2171,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>12.7 x 7.5 x .7 cm</extent>
 </physicalDescription>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604"><topic>Lists</topic></subject>
@@ -1837,6 +2181,13 @@
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85048170"><topic>Figure drawing</topic></subject>
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1864,7 +2215,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>12.6 x 7.5 x 1 cm</extent>
 </physicalDescription>
 
 
@@ -1874,6 +2225,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1901,7 +2259,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>12 x 8.4 x 1 cm</extent>
 </physicalDescription>
 
 
@@ -1911,6 +2269,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
@@ -1938,7 +2303,7 @@
 
 <note>Ink, graphite.</note>
 
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form><extent>3.75 x 6  x .25 cm</extent>
 </physicalDescription>
 
 
@@ -1948,6 +2313,13 @@
 
 
 <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286"><topic>Artists, Black</topic></subject>
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 

@@ -23,6 +23,7 @@
    <note>Graphite.</note>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027354">sketchbooks</form>
+      <extent>22.5 x 15.2 x 1 cm</extent>
    </physicalDescription>
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604">
       <topic>Lists</topic>
@@ -35,6 +36,12 @@
    </subject>
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286">
       <topic>Artists, Black</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
    </subject>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -55,10 +62,4 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
-      <topic>Gay artists</topic>
-   </subject>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
-      <topic>Artists</topic>
-   </subject>
 </mods>

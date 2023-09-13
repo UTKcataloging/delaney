@@ -27,7 +27,7 @@
 
 {{if(isBlank(cells['Media/Detail'].value), '', '<note>' + cells['Media/Detail'].value + '</note>')}}
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['Size']value}}</extent>
+<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells['Size'].value}}</extent>
 </physicalDescription>
 
 {{if(isBlank(cells['subject'].value), '', '<subject valueURI="' + cells['subject_URI'].value + '"><topic>' + cells['subject'].value + '</topic></subject>')}}
@@ -37,6 +37,13 @@
 {{if(isBlank(cells['subject3'].value), '', '<subject valueURI="' + cells['subject3_URI'].value + '"><topic>' + cells['subject3'].value + '</topic></subject>')}}
 
 {{if(isBlank(cells['subject4'].value), '', '<subject valueURI="' + cells['subject4_URI'].value + '"><topic>' + cells['subject4'].value + '</topic></subject>')}}
+
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Beauford Delaney Sketchbooks and Notebooks</title></titleInfo></relatedItem>
 
