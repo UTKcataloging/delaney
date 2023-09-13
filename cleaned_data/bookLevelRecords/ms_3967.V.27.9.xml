@@ -50,4 +50,10 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
+      <topic>Gay artists</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
+      <topic>Artists</topic>
+   </subject>
 </mods>
