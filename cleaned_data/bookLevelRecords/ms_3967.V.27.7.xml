@@ -19,7 +19,7 @@
       <dateCreated encoding="edtf">circa 1968</dateCreated>
    </originInfo>
    <abstract>Beauford Delaney notebook circa 1968. Contains meditations about friendship with Henry Miller, gospel lyrics, to-do lists, and a few abstract ink sketches.</abstract>
-   <note>Teal 'Glatigny'  gridelined notebook.</note>
+   <note>Teal 'Glatigny' gridelined notebook.</note>
    <note>Black and blue ink, graphite.</note>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264354">notebooks</form>
@@ -34,8 +34,8 @@
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286">
       <topic>Artists, Black</topic>
    </subject>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
-      <topic>Gay artists</topic>
+   <subject valueURI="https://homosaurus.org/v3/homoit0000070">
+      <topic>LGBTQ+ artists</topic>
    </subject>
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
       <topic>Artists</topic>
@@ -59,4 +59,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <note>Credit line: Beauford Delaney Papers, MS.3967, Betsey B. Creekmore Special Collections and University Archives, University of Tennessee, Knoxville. © The Estate of Beauford Delaney by permission of Derek L. Spratley, Esquire, Court-Appointed Administrator.</note>
 </mods>

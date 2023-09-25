@@ -38,8 +38,8 @@
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008286">
       <topic>Artists, Black</topic>
    </subject>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh92001225">
-      <topic>Gay artists</topic>
+   <subject valueURI="https://homosaurus.org/v3/homoit0000070">
+      <topic>LGBTQ+ artists</topic>
    </subject>
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008276">
       <topic>Artists</topic>
@@ -63,4 +63,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <note>Credit line: Beauford Delaney Papers, MS.3967, Betsey B. Creekmore Special Collections and University Archives, University of Tennessee, Knoxville. © The Estate of Beauford Delaney by permission of Derek L. Spratley, Esquire, Court-Appointed Administrator.</note>
 </mods>

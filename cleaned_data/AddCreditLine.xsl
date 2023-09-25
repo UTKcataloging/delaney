@@ -16,8 +16,6 @@
         </xsl:copy>
     </xsl:template>
     
-    <xsl:strip-space elements="*"/>
-    
     <xsl:template match="text()">
         <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
@@ -25,8 +23,10 @@
     <xsl:template match='mods'>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
+            <note>Credit line: Beauford Delaney Papers, MS.3967, Betsey B. Creekmore Special Collections and University Archives, University of Tennessee, Knoxville. © The Estate of Beauford Delaney by permission of Derek L. Spratley, Esquire, Court-Appointed Administrator.</note>
         </xsl:copy>
-        <note>Credit line: Beauford Delaney Papers, MS.3967, Betsey B. Creekmore Special Collections and University Archives, University of Tennessee, Knoxville. © The Estate of Beauford Delaney by permission of Derek L. Spratley, Esquire, Court-Appointed Administrator.</note>
     </xsl:template>
+    
+    <xsl:strip-space elements="*"/>
     
 </xsl:stylesheet>
