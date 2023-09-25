@@ -20,7 +20,7 @@
       <dateCreated encoding="edtf" point="start">1960</dateCreated>
       <dateCreated encoding="edtf" point="end">1969</dateCreated>
    </originInfo>
-   <abstract>Black ink; Contour landscape  drawing depicting a cathedral</abstract>
+   <abstract>Black ink; Contour landscape drawing depicting a cathedral</abstract>
    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074423">
       <topic>Landscapes in art</topic>
    </subject>
@@ -47,4 +47,5 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <note>Credit line: Beauford Delaney Papers, MS.3967, Betsey B. Creekmore Special Collections and University Archives, University of Tennessee, Knoxville. © The Estate of Beauford Delaney by permission of Derek L. Spratley, Esquire, Court-Appointed Administrator.</note>
 </mods>
