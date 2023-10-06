@@ -4,9 +4,9 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">ms_3967.V.26.2.134.b</identifier>
+   <identifier type="local">ms_3967.V.26.2.149.f</identifier>
    <titleInfo>
-      <title>Beauford Delaney sketchbook, book 2, page 134b</title>
+      <title>Beauford Delaney sketchbook, book 2, page 149f</title>
    </titleInfo>
    <name valueURI="http://id.loc.gov/authorities/names/n85364216">
       <namePart>Delaney, Beauford, 1901-1979</namePart>
@@ -20,7 +20,7 @@
       <dateCreated encoding="edtf" point="start">1955</dateCreated>
       <dateCreated encoding="edtf" point="end">1956</dateCreated>
    </originInfo>
-   <abstract>Blue ink (pen); ruminations on the nature of progress, the differences between intuitive discovery and future developments</abstract>
+   <abstract>Blue ink (pen); Three abstract drawings in blue ink; bold lines that connect and loop housed within a frame</abstract>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Beauford Delaney Sketchbooks and Notebooks</title>

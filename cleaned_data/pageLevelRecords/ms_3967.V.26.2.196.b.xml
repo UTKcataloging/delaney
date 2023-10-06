@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">ms_3967.V.26.2.196.b</identifier>
    <titleInfo>
-      <title>Beauford Delaney sketchbook, book 2, page 196b</title>
+      <title>Beauford Delaney sketchbook, book 2, 196b</title>
    </titleInfo>
    <name valueURI="http://id.loc.gov/authorities/names/n85364216">
       <namePart>Delaney, Beauford, 1901-1979</namePart>
@@ -20,7 +20,7 @@
       <dateCreated encoding="edtf" point="start">1955</dateCreated>
       <dateCreated encoding="edtf" point="end">1956</dateCreated>
    </originInfo>
-   <abstract>Torn, Address (Dorothy Kronig)</abstract>
+   <abstract>Line drawing in black ink</abstract>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Beauford Delaney Sketchbooks and Notebooks</title>

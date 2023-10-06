@@ -20,10 +20,7 @@
       <dateCreated encoding="edtf" point="start">1955</dateCreated>
       <dateCreated encoding="edtf" point="end">1956</dateCreated>
    </originInfo>
-   <abstract>Blue ink (pen); list of names</abstract>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh91000604">
-      <topic>Lists</topic>
-   </subject>
+   <abstract>Blue ink (pen); names, mathematics, and drawing of a circle within a circle</abstract>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Beauford Delaney Sketchbooks and Notebooks</title>
